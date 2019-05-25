@@ -1,0 +1,6 @@
+﻿CustomerID,CustomerName,Address,PhoneNumber,Gender,CustomerType
+1,Tom,NY,123456,M,Retail
+2,Lily,CA,123421,F,Wholesale
+3,Harry,MI,34234,M,Retail
+4,Gary,SA,363456,M,Wholesale
+5,Linda,AL,923903,F,Retail

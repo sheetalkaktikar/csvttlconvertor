@@ -1,0 +1,17 @@
+#Beautify command prompt
+#------------------------------------------------------------------------------------
+export PS1="___________________    | \w @ \h (\u) \n| => "
+export PS2="McSK:=>"
+
+
+#Add Python3 to the path below
+#-------------------------------------------------------------------------------------
+export PATH=/usr/local/bin:/usr/local/sbin:/usr/local/opt/python/bin/python3.7:$PATH
+
+#Add Python Virtual Env Settings
+#-------------------------------------------------------------------------------------
+source /usr/local/bin/virtualenvwrapper.sh
+
+#Alias 
+alias python='python3'
+alias pip='pip3.7'
